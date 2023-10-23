@@ -1,0 +1,15 @@
+/Users/gaest/Projects/banko-Adak0001/bin/Debug/net7.0/banko-Adak0001
+/Users/gaest/Projects/banko-Adak0001/bin/Debug/net7.0/banko-Adak0001.deps.json
+/Users/gaest/Projects/banko-Adak0001/bin/Debug/net7.0/banko-Adak0001.runtimeconfig.json
+/Users/gaest/Projects/banko-Adak0001/bin/Debug/net7.0/banko-Adak0001.dll
+/Users/gaest/Projects/banko-Adak0001/bin/Debug/net7.0/banko-Adak0001.pdb
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.csproj.AssemblyReference.cache
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.AssemblyInfoInputs.cache
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.AssemblyInfo.cs
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.csproj.CoreCompileInputs.cache
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.dll
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/refint/banko-Adak0001.dll
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.pdb
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/banko-Adak0001.genruntimeconfig.cache
+/Users/gaest/Projects/banko-Adak0001/obj/Debug/net7.0/ref/banko-Adak0001.dll
